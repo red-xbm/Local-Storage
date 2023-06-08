@@ -47,3 +47,14 @@ body {
 .parent .results span .key {
     display: block;
 }
+p {
+    color: black;
+    text-align: center;
+    font: 13px;
+    padding: 320px 0 10px;
+}
+p a {
+    text-decoration: none;
+    border-bottom: blueviolet 1px solid;
+    color:#009688;
+}
